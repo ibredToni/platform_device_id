@@ -2,7 +2,6 @@ group 'com.di1shuai.platform_device_id'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlinVersion = '1.9.20'
     repositories {
         google()
         jcenter()
